@@ -61,8 +61,6 @@ Passionate about transforming ideas into clean, functional, and visually engagin
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Project 1]([https://github.com/](https://github.com/ARVibez/institute-website))**    | A Responsive institute website |
 
 ---
